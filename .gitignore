@@ -21,3 +21,8 @@ output/
 
 # 日志
 *.log*.py
+batch_sharpness.py
+draw_curve.py
+edge.py
+generate_compare.py
+sharpness_noise.py
